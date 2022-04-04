@@ -1,3 +1,4 @@
+/* eslint-disable strict */
 module.exports = {
   'env': {
     'browser': true,
